@@ -1,4 +1,4 @@
-# EQAR - ECLAT and Association Rules
+# EQAR - ECLAT and Qualify Association Rules
 
 These are Python files with implementation of EQAR.
 
